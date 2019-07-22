@@ -188,3 +188,8 @@
 # }
 # 
 # alias cd=cd_func
+
+
+# user customize
+alias ll="ls -alF"
+alias vi="vim"
